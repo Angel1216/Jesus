@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringWSRestfulHibernateJSONService&apos;" deleteContents="false" description="Delete resource &apos;SpringWSRestfulHibernateJSONService&apos;" element1="/SpringWSRestfulHibernateJSONService" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1507567955225"/>&#x0A;<refactoring comment="Delete resource &apos;WSAtnCiu&apos;" deleteContents="false" description="Delete resource &apos;WSAtnCiu&apos;" element1="/WSAtnCiu" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1507570015694"/>
+</session>

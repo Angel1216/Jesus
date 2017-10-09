@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Oct 09 13:28:24 CDT 2017
+org.eclipse.jst.jee.server\:/binary\:/home/oem/.m2/repository/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar=/home/oem/Documentos/toolsDeveloper/STS/sts-bundle/pivotal-tc-server-developer-3.2.4.SR1/base-instance/wtpwebapps/spring/WEB-INF/lib/spring-web-4.2.1.RELEASE.jar
+org.eclipse.jst.jee.server\:spring=/home/oem/Documentos/toolsDeveloper/STS/sts-bundle/pivotal-tc-server-developer-3.2.4.SR1/base-instance/wtpwebapps/spring
